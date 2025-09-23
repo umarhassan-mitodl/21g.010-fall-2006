@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ]
+  ],
+  "legacy_uid": "11aaffb4-d35c-8688-8bd8-f3dcd5be4eab",
+  "instructors": {
+    "content": [
+      "d9940baf-316a-2166-6964-0f257e9d9853"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5b29e6a6-550e-681f-537c-18c902fd1ef4",
+    "website": "21g-010-introduction-to-european-and-latin-american-fiction-fall-2006"
+  },
+  "course_title": "Introduction to European and Latin American Fiction",
+  "course_description": "This subject serves as a broad introduction to the field of European and Latin American fiction. It is taught in an historical manner\u2014beginning with the first picaresque novel, _Lazarillo de Tormes_, and ending with contemporary European fiction. It is designed to help students acquire a general understanding of major fictional modes-from 18th century epistolary fiction, _Liaisons dangereuses_, to 20th century avant-garde fiction: _Cosmicomicsi_ and _Aura_. Attention is paid not only to the literary movements these works represent, but also to the subtle interplay of history, geography, language and cultural norms that gave rise to specific literary forms. While the reading load is heavy, the books are compelling.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.010",
+  "course_image_thumbnail": {
+    "content": "ec7c8365-fa8d-3e98-67fa-01aeb0ff522a",
+    "website": "21g-010-introduction-to-european-and-latin-american-fiction-fall-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "ddcc51b6-d107-4059-9145-a066660292c9",
+  "site_short_id": "21g.010-fall-2006",
+  "site_url_path": "courses/21g-010-introduction-to-european-and-latin-american-fiction-fall-2006",
+  "title": "Course Metadata"
+}
