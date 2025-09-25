@@ -86,7 +86,7 @@ Response due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
-Film: {{% resource_link "fe0e7fc9-60cd-4846-a7d5-4ff3b956810e" "*Cruel Intentions*" %}}. Directed by Roger Kumble.
+Film: [*Cruel Intentions*](http://www.imdb.com/title/tt0139134/). Directed by Roger Kumble.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -108,7 +108,7 @@ Teaching Group on *Cruel Intentions*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
-Film: {{% resource_link "dd4ebd25-1982-41a6-bf97-1d0da1a24d5e" "*Les Liaisons Dangereuses*" %}}. Directed by Josée Dayan.
+Film: [*Les Liaisons Dangereuses*](http://www.imdb.com/title/tt0317875/). Directed by Josée Dayan.
 {{< tdclose >}}{{< tdopen >}}
 First version of first paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -150,7 +150,7 @@ Response due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
-Film: {{% resource_link "ba70603e-b83b-4736-b998-2926ca698f89" "*Doña Flor and her Two Husbands*" %}}. Directed by Bruno Barreto.
+Film: [*Doña Flor and her Two Husbands*](http://www.imdb.com/title/tt0077452/). Directed by Bruno Barreto.
 {{< tdclose >}}{{< tdopen >}}
 Film response due 1 day after Ses #12
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -182,7 +182,7 @@ Response due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
-Film: {{% resource_link "a0d83553-e14a-4371-b8ce-b413d48dbba1" "*Women on the Verge of a Nervous Breakdown*" %}}. Directed by Pedro Almodóvar.
+Film: [*Women on the Verge of a Nervous Breakdown*](http://www.imdb.com/title/tt0095675/). Directed by Pedro Almodóvar.
 {{< tdclose >}}{{< tdopen >}}
 Film response due 1 day after Ses #16
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -198,7 +198,7 @@ Teaching Group on *Kiss of the Spider Woman*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
-Film: {{% resource_link "266c8f33-e8b2-4b8a-9e49-b6d0cef0512c" "*The Cat Woman*" %}}. Directed by Alfred Shaughnessy.
+Film: [*The Cat Woman*](http://www.imdb.com/title/tt0050235/). Directed by Alfred Shaughnessy.
 {{< tdclose >}}{{< tdopen >}}
 Film response due 2 days after Ses #18
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -220,7 +220,7 @@ Teaching Group on the film and the roles of films in *Kiss of the Spider Woman
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
-Film: {{% resource_link "85994f0e-bf25-41e1-b756-7b9c505b794c" "*Kiss of the Spider Woman*" %}}*.* Directed by Hector Babenco.
+Film: [*Kiss of the Spider Woman*](http://www.imdb.com/title/tt0089424/)*.* Directed by Hector Babenco.
 {{< tdclose >}}{{< tdopen >}}
 Response paper due 1 day after Ses #21
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}

@@ -22,15 +22,15 @@ Fuentes, Carlos. _Aura_. Bilingual ed. New York, NY: Farrar, Straus and Giroux, 
 
 Choderlos de Laclos, Pierre. _Les Liaisons Dangereuses_. New York, NY: Oxford University Press, 1999. ISBN: 0192838679.
 
-Dostoyevsky, Fyodor. _Notes from Underground_. New York, NY: Knopf Vintage Classic Series, 1994. ISBN: 067973452X. (Download {{% resource_link "b2d1d096-cb7a-40bb-991e-0f1def5545e4" "_Notes from the Underground_" %}} by Fyodor Dostoyevsky, a version of this text from Project Gutenberg. Also, listen to the audiobook of _{{% resource_link "437e4d81-95b9-4acb-873b-e877eeb56766" "Notes from the Underground" %}}_, made available by LibriVox.)
+Dostoyevsky, Fyodor. _Notes from Underground_. New York, NY: Knopf Vintage Classic Series, 1994. ISBN: 067973452X. (Download [_Notes from the Underground_](http://www.gutenberg.org/etext/600) by Fyodor Dostoyevsky, a version of this text from Project Gutenberg. Also, listen to the audiobook of _[Notes from the Underground](http://librivox.org/notes-from-the-underground-by-fyodor-dostoyevsky/)_, made available by LibriVox.)
 
 Calvino, Italo. _Cosmicomics_. New York, NY: Harvest Books, 1976. ISBN: 0156226006.
 
 Martin Gaite, Carmen. _The Back Room_. San Francisco, CA: City Lights Books, 2000. ISBN: 0872863719.
 
-Kafka, Franz. _The Metamorphosis_. Reissue ed. New York, NY: Bantam Classics, 1972. ISBN: 0553213695. (Download {{% resource_link "605a80fc-2efe-4267-b3b3-3da6cd982e6e" "_The Metamorphosis_" %}} by Franz Kafka, a version of this text from Project Gutenberg.)
+Kafka, Franz. _The Metamorphosis_. Reissue ed. New York, NY: Bantam Classics, 1972. ISBN: 0553213695. (Download [_The Metamorphosis_](http://www.gutenberg.org/etext/5200) by Franz Kafka, a version of this text from Project Gutenberg.)
 
-Zola, Émile. _Therese Raquin_. Reprint ed. New York, NY: Penguin Classics, 1962. ISBN: 0140441204.(Download {{% resource_link "787028c5-eae6-4f96-a9a1-8285fdb0b074" "_Theresa Raquin_" %}} by Émile Zola, a version of this text from Project Gutenberg.)
+Zola, Émile. _Therese Raquin_. Reprint ed. New York, NY: Penguin Classics, 1962. ISBN: 0140441204.(Download [_Theresa Raquin_](http://www.gutenberg.org/etext/6626) by Émile Zola, a version of this text from Project Gutenberg.)
 
 Machado de Assis, Joaquim. _Dom Casmurro_. Reprint ed. New York, NY: Oxford University Press, 1998. ISBN: 0195103092.
 
@@ -98,7 +98,7 @@ Choderlos de Laclos, Pierre. _Les Liaisons Dangereuses_. pp. 170-255, to letter 
 {{< tdopen >}}
 
 
-Film: {{% resource_link "fe0e7fc9-60cd-4846-a7d5-4ff3b956810e" "_Cruel Intentions_" %}}. Directed by Roger Kumble.
+Film: [_Cruel Intentions_](http://www.imdb.com/title/tt0139134/). Directed by Roger Kumble.
 
 
 {{< tdclose >}}
@@ -144,7 +144,7 @@ Dostoyevsky, Fyodor. _Notes from Underground_. Up to p. 56, chapter 2.
 {{< tdopen >}}
 
 
-Film: {{% resource_link "dd4ebd25-1982-41a6-bf97-1d0da1a24d5e" "_Les Liaisons Dangereuses_" %}}. Directed by Josée Dayan.
+Film: [_Les Liaisons Dangereuses_](http://www.imdb.com/title/tt0317875/). Directed by Josée Dayan.
 
 
 {{< tdclose >}}
@@ -220,7 +220,7 @@ Machado de Assis, Joaquim. _Dom Casmurro_. Chapters XXVI-XCIX.
 {{< tdopen >}}
 
 
-Film: {{% resource_link "ba70603e-b83b-4736-b998-2926ca698f89" "_Doña Flor and her Two Husbands_" %}}. Directed by Bruno Barreto.
+Film: [_Doña Flor and her Two Husbands_](http://www.imdb.com/title/tt0077452/). Directed by Bruno Barreto.
 
 
 {{< tdclose >}}
@@ -284,7 +284,7 @@ Puig, Manuel. _Kiss of the Spider Woman_. Up to chapter 4.
 {{< tdopen >}}
 
 
-Film: {{% resource_link "a0d83553-e14a-4371-b8ce-b413d48dbba1" "_Women on the Verge of a Nervous Breakdown_" %}}. Directed by Pedro Almodóvar.
+Film: [_Women on the Verge of a Nervous Breakdown_](http://www.imdb.com/title/tt0095675/). Directed by Pedro Almodóvar.
 
 
 {{< tdclose >}}
@@ -318,7 +318,7 @@ Finish Puig, Manuel. _Kiss of the Spider Woman_.
 {{< tdopen >}}
 
 
-Film: {{% resource_link "266c8f33-e8b2-4b8a-9e49-b6d0cef0512c" "_The Cat Woman_" %}}. Directed by Alfred Shaughnessy.
+Film: [_The Cat Woman_](http://www.imdb.com/title/tt0050235/). Directed by Alfred Shaughnessy.
 
 
 {{< tdclose >}}
@@ -364,7 +364,7 @@ _Kiss of the Spider Woman_ (cont.)
 {{< tdopen >}}
 
 
-Film: {{% resource_link "85994f0e-bf25-41e1-b756-7b9c505b794c" "_Kiss of the Spider Woman_" %}}_._ Directed by Hector Babenco.
+Film: [_Kiss of the Spider Woman_](http://www.imdb.com/title/tt0089424/)_._ Directed by Hector Babenco.
 
 
 {{< tdclose >}}
